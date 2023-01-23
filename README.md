@@ -43,4 +43,4 @@ __Melhoria 1__, _Melhoria 2_
 
 [https://www.horadecodar.com.br](https://www.horadecodar.com.br)
 
-Contribuidor principal: https://www.github.com.br/IcaroBrauns
+Contribuidor principal: https://www.github.com/IcaroBrauns
