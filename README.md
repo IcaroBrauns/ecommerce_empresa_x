@@ -46,3 +46,11 @@ __Melhoria 1__, _Melhoria 2_
 Contribuidor principal: https://www.github.com/IcaroBrauns
 
 [![Logo do PHP](https://img2.gratispng.com/20180816/vxt/kisspng-computer-icons-php-portable-network-graphics-logo-amp-quot-php-5b74f7e6e553d8.7282283915343922949393.jpg)](https://www.github.com/IcaroBrauns)
+
+## Código da função soma
+
+``` javascript
+function soma(a, b) {
+    return a + b;
+}
+```
