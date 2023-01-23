@@ -31,4 +31,4 @@ __Melhoria 1__, _Melhoria 2_
 
 #### Imagem local:
 
-![logo do python](/ecommerce/img/Python.svg.png)
+![logo do python](/ecommerce/img/python.png)
