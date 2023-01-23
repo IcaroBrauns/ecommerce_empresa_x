@@ -1,4 +1,7 @@
-# ecommerce_empresa_x
-Este é um ecommerce para a empresa X, feito em PHP e MySQL
+# E-commerce empresa X
 
-# Teste
+vamos criar um e-commerce, para a empresa X e blablabla
+
+## Funcionalidades:
+
+Checkout, Tela de produtos, Home com banner
