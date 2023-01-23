@@ -31,4 +31,8 @@ __Melhoria 1__, _Melhoria 2_
 
 #### Imagem local:
 
-![logo do python](img/python.png)
+![Logo do Python](img/python.png)
+
+### Imagem externa:
+
+![Logo do PHP](https://img2.gratispng.com/20180816/vxt/kisspng-computer-icons-php-portable-network-graphics-logo-amp-quot-php-5b74f7e6e553d8.7282283915343922949393.jpg)
